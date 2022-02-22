@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
 	name="bot-storage",
-	version="1.0.0",
+	version="1.0.1",
 	author="Daniil Marchenko, Ivan Romanchenko",
 	author_email="vanvanych789@gmail.com",
 	description="Storage for bots that allows you to save the states and data of users.",

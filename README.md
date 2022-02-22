@@ -1,8 +1,8 @@
-# django-tbot-base  
-#### _Storage - an object that allows you to save the states and data of users._
-The storage.py file describes the abstract class BaseStorage, inheriting from which,
-you can implement your own storage (eg DBStorage or JSONStorage).
-Such storages, however, will obviously not be more efficient than the already implemented RedisStorage._  
+# bot-storage
+##### _Storage - an object that allows you to save the states and data of users._
+##### _The storage.py file describes the abstract class BaseStorage, inheriting from which, you can implement your own storage (eg DBStorage or JSONStorage)._
+##### _Such storages, however, will obviously not be more efficient than the already implemented RedisStorage._
+
 
 ## Installation:
 ```sh
